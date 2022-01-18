@@ -10,3 +10,5 @@ testing if faruq can edit
 to test can update previous branches
 
 testing sam branch merging through bash
+
+branch2
