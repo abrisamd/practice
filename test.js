@@ -16,4 +16,8 @@ branch2
 
 test branch 3
 
+<<<<<<< HEAD
 test merge conflict
+=======
+test merge coflciv on sambranch
+>>>>>>> sambranch
